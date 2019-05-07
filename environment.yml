@@ -1,0 +1,8 @@
+name: PPEPPD-data-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pickle
+  - pandas
